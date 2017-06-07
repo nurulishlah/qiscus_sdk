@@ -25,7 +25,7 @@ deploy:
   distributions: sdist bdist_wheel
   user: nurulishlah
   password:
-    secure: PLEASE_REPLACE_ME
+    secure: 80VaRDbFPB5iu2JuYaW68yLBG2pARUpP
   on:
     tags: true
     repo: nurulishlah/qiscus_sdk
