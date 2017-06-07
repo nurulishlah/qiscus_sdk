@@ -6,8 +6,7 @@ from requests import post
 
 class QiscusSDK(object):
     """
-    Simple Qiscus SDK wrapper
-    -- NOW POST TO QISME ENGINE
+    Simple Qiscus SDK wrapper, NOW POST TO QISME ENGINE
     """
 
     @staticmethod
