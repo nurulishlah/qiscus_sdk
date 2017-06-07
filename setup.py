@@ -86,7 +86,7 @@ test_requirements = [
 
 setup(
     name='qiscus_sdk',
-    version='0.0.1',
+    version='0.1.0',
     description="Python version of Qiscus SDK wrapper",
     long_description=readme + '\n\n' + history,
     author="Muhamad Ishlah",
@@ -106,7 +106,7 @@ setup(
     install_requires=requirements,
     license="MIT license",
     zip_safe=False,
-    keywords='qiscus_sdk',
+    keywords='qiscus_sdk qiscus sdk',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
