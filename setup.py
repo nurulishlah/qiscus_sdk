@@ -27,7 +27,7 @@ test_requirements = [
     'cffi==1.10.0',
     'chardet==3.0.3',
     'coverage==4.1',
-    'cryptography==1.7',
+    'cryptography==3.2',
     'docutils==0.13.1',
     'flake8==2.6.0',
     'idna==2.5',
