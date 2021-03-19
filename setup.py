@@ -32,7 +32,7 @@ test_requirements = [
     'flake8==2.6.0',
     'idna==2.5',
     'imagesize==0.7.1',
-    'Jinja2==2.9.6',
+    'Jinja2==2.11.3',
     'MarkupSafe==1.0',
     'mccabe==0.5.3',
     'pathtools==0.1.2',
