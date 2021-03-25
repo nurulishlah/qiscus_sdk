@@ -44,7 +44,7 @@ test_requirements = [
     'pyflakes==1.2.3',
     'Pygments==2.2.0',
     'pytz==2017.2',
-    'PyYAML==3.11',
+    'PyYAML==5.4',
     'requests==2.17.3',
     'six==1.10.0',
     'snowballstemmer==1.2.1',
