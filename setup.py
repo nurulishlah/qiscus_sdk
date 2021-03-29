@@ -42,7 +42,7 @@ test_requirements = [
     'pycodestyle==2.0.0',
     'pycparser==2.17',
     'pyflakes==1.2.3',
-    'Pygments==2.2.0',
+    'Pygments==2.7.4',
     'pytz==2017.2',
     'PyYAML==3.11',
     'requests==2.17.3',
