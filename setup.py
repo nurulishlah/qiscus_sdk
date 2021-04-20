@@ -37,7 +37,7 @@ test_requirements = [
     'mccabe==0.5.3',
     'pathtools==0.1.2',
     'pluggy==0.3.1',
-    'py==1.4.34',
+    'py==1.10.0',
     'pyasn1==0.2.3',
     'pycodestyle==2.0.0',
     'pycparser==2.17',
