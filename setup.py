@@ -15,7 +15,7 @@ requirements = [
     'chardet==3.0.3',
     'idna==2.5',
     'requests==2.17.3',
-    'urllib3==1.21.1'
+    'urllib3==1.26.5'
 ]
 
 test_requirements = [
@@ -50,7 +50,7 @@ test_requirements = [
     'snowballstemmer==1.2.1',
     'Sphinx==1.4.8',
     'tox==2.3.1',
-    'urllib3==1.21.1',
+    'urllib3==1.26.5',
     'virtualenv==15.1.0',
     'watchdog==0.8.3'
 ]
