@@ -21,7 +21,7 @@ requirements = [
 test_requirements = [
     'alabaster==0.7.10',
     'argh==0.26.2',
-    'Babel==2.4.0',
+    'Babel==2.9.1',
     'bumpversion==0.5.3',
     'certifi==2017.4.17',
     'cffi==1.10.0',
