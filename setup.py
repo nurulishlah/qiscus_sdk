@@ -11,7 +11,7 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [
     'Click>=6.0',
-    'certifi==2017.4.17',
+    'certifi==2022.12.7',
     'chardet==3.0.3',
     'idna==2.5',
     'requests==2.17.3',
@@ -23,7 +23,7 @@ test_requirements = [
     'argh==0.26.2',
     'Babel==2.4.0',
     'bumpversion==0.5.3',
-    'certifi==2017.4.17',
+    'certifi==2022.12.7',
     'cffi==1.10.0',
     'chardet==3.0.3',
     'coverage==4.1',
